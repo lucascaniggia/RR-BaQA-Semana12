@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1619466024262" clover="3.2.0">
+  <project timestamp="1619466024262" name="All files">
+    <metrics statements="29" coveredstatements="28" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="9" elements="43" coveredelements="41" complexity="0" loc="29" ncloc="29" packages="1" files="1" classes="1"/>
+    <file name="functions.js" path="/Users/mac/Desktop/Radium Rocket/Semana 12/functions.js">
+      <metrics statements="29" coveredstatements="28" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="9"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="41" count="18" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="56" count="2" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="2" type="stmt"/>
+      <line num="65" count="2" type="stmt"/>
+      <line num="66" count="2" type="stmt"/>
+      <line num="67" count="4" type="stmt"/>
+      <line num="69" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

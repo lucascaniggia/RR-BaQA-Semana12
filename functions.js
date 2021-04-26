@@ -74,5 +74,9 @@ export {
     suma,
     resta,
     multiplicacion,
-    division
+    division,
+    tablaMultiplicar,
+    potencia,
+    anidada,
+    cerosIzq
 }
