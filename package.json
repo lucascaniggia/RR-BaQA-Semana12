@@ -1,10 +1,11 @@
 {
   "name": "semana-12",
-  "version": "1.0.0",
-  "description": "'Unit Tests'",
+  "version": "0.0.1",
+  "description": "Unit Tests",
   "main": "funciones.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --color",
+    "test-coverage": "jest --coverage --color"
   },
   "jest": {
     "transform": {
